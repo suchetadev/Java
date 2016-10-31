@@ -1,0 +1,13 @@
+/*
+   Simpale java program
+*/
+package helloworld;
+
+public class HelloWorld {
+	
+	public static void main(String args[]){
+		
+		System.out.println("Hello this is my java program");
+	}
+
+}
