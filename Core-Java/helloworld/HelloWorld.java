@@ -7,7 +7,7 @@ public class HelloWorld {
 	
 	public static void main(String args[]){
 		
-		System.out.println("This is my java program");
+		System.out.println("This is my java program from suchee branch");
 	}
 
 }
